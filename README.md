@@ -13,5 +13,6 @@ Snack is Open Source. You can find the code on the [GitHub repo](https://github.
 
 
 
+Expo SS:
 
 ![Expo ReactNative](https://github.com/asiyeyildirim/Firebase-ReactNative-TodoApp/blob/main/Expo-ReactNative.png)
